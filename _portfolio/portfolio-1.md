@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Exploring Cancer Survivors’ Perspectives on AI Personalization and Complementary and Alternative Medicine (CAM): A Card-Based Co-Design Approach Using Kuhlthau’s Information Search Process (ISP)"
+excerpt: "Medical Library Association 2025<br/><img src='/images/mla.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Abstract<br>
+This study integrates Kuhlthau's Information Search Process (ISP) with card-based co-design approach to explore cancer survivors' perspectives on AI personalization and complementary and alternative medicine (CAM) in healthcare. Through iterative workshops, laminated bilingual cards (English, Traditional Chinese, Simplified Chinese) and illustrative examples were used to stimulate discussion and engage participants. The card consists of four categories: story, application, issue, and future cards. It investigates challenges and opportunities in information-seeking, trust-building, and decision-making. Participants reflected on their own experiences navigating health information and assessed the role of AI in healthcare. The findings reveal challenges in accessing reliable CAM information and building trust in AI systems, and also identifying opportunities for AI to provide culturally sensitive and patient-centered solutions. This study highlights the potential of combining ISP with participatory design to deepen understanding of health information-seeking behaviors and improve AI-driven healthcare tools. 
