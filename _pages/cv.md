@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Library and Information Science, University of Pittsburgh
-* M.Sc. in Library and Information Management, The University of Hong Kong
-* M.A. in Information Systems, City University of Hong Kong
-* B.A. (Hons) in Logistics and Supply Chain Management, University of Northumbria at Newcastle
+* PhD in Library and Information Science, University of Pittsburgh
+* MSc in Library and Information Management, The University of Hong Kong
+* MA in Information Systems, City University of Hong Kong
+* BA (Hons) in Logistics and Supply Chain Management, University of Northumbria at Newcastle
 
 Work Experience
 ======
@@ -25,7 +25,8 @@ Work Experience
 
 * Spring 2025: Fellow
   * Yale University, Lillian Goldman Law Library, New Haven, CT
-    * Support key initiatives in library technology, focusing on AI-related applications, generative AI tools workshops, library assessment and data analytics, and user experience testing.
+    * Co-develop and facilitate generative AI tools workshops for the law school community. 
+    * Support library technology initiatives, including AI-related applications, data analytics, library assessment, and user experience testing.
 
 * 2022 – 2024: Systems Librarian
   * Georgetown University Law Library, Washington, DC
