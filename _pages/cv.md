@@ -30,7 +30,7 @@ Work Experience
 
 * 2022 – 2024: Systems Librarian
   * Georgetown University Law Library, Washington, DC
-    * Managed integrated library system and discovery platforms, leading innovative implementations to optimize user discovery experiences and workflows.
+    * Managed integrated library system and discovery platforms, led innovative implementations to optimize user discovery experiences and workflows.
 
 * 2021 – 2022: Technology Integration Librarian
   * Drexel University Libraries, Philadelphia, PA
