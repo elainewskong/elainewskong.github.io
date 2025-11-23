@@ -8,6 +8,7 @@ author_profile: true
 
 
 Exploring Cancer Survivors’ Perspectives on AI Personalization and Complementary and Alternative Medicine (CAM): A Card-Based Co-Design Approach Using Kuhlthau’s Information Search Process (ISP)
+
 2025 Medical Library Association Annual Conference [Poster](/images/mla.jpg)
 
 <!-- ## Poster Presentations -->
