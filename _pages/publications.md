@@ -7,33 +7,36 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=qEfndNsAAAAJ&hl=en&oi=sra).
+You can also find my articles on [Google Scholar]([https://scholar.google.com/citations?user=N9WvjqYAAAAJ]).
 
-<sup>*</sup> Denotes equal authorship
+
 ## Peer-Reviewed Publications
 
-**Lisa Orii**, Elizabeth K. Harrington, Serah Gitome, Nelson Kiprotich Cheruiyot, Elizabeth Anne Bukusi, Sandy Cheng, Ariel Fu, Khushi Khandelwal, Shrimayee Narasimhan, and Richard Anderson. 2025. Supporting Contraceptive Decision-Making in the Intermediated Pharmacy Setting in Kenya. In *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI ‘25)*. [LINK](https://dl.acm.org/doi/10.1145/3706598.3713508)
+**Elaine Kong**, JM Shalani Dilinika, Xuan Nie, Aakash Gautam, and Kuo‐Ting Huang. "Measuring Socio‐Ethical Engagement with Generative AI: Scale Development via Exploratory Factor Analysis." *Proceedings of the Association for Information Science and Technology* 62, no. 1 (2025): 978-983. [LINK](https://doi.org/10.1002/pra2.1325)
 
-**Lisa Orii**, Kate S. Wilson, Jacqueline Huwa, Christine Kiruthu-Kamamia, Odala Sande, Agness Thawani, Astrid Berner-Rodoreda, Evelyn Viola, Hannock Tweya, Petros Tembo, Wapu Masambuka, Richard Anderson, & Caryl Feldacker. 2025. “They gave us the right to choose.” A qualitative study of preferences for differentiated service delivery location among recipients of antiretroviral therapy at Lighthouse Trust in Lilongwe Malawi. In *PLOS ONE*. [LINK](https://doi.org/10.1371/journal.pone.0296531)
+Dilinika, JM Shalani, **Elaine Kong**, Xuan Nie, and Kuo-Ting Huang. "Predicting Perceived Lasting Benefits and Future Digital Detox Willingness from a Mood Management Perspective: A Pilot Survey Study." In *Proceedings of the ALISE Annual Conference*. 2025. [LINK](https://doi.org/10.21900/j.alise.2025.1950)
 
-Shaan Chopra, **Lisa Orii**, Katherine Juarez, Nussara Tieanklin, James Fogarty, and Sean A. Munson. 2024. Menopause Legacies: Designing to Record and Share Experiences of Menopause Across Generations. In *Proceedings of the ACM on Human-Computer Interaction (CSCW ‘24)*. [LINK](https://dl.acm.org/doi/10.1145/3686975)
+Huang, Kuo-Ting, Ravi Patel, Sharon Connor, **Elaine Kong**, Xuan Nie, and Jocelyn Schmersal. 2025. “Barriers and Facilitators to Documenting Social Needs in Electronic Health Records: A Pilot Survey”. *Information Research an International Electronic Journal 30* (iConf):970-81. [LINK](https://doi.org/10.47989/ir30iConf47152)
 
-**Lisa Orii**, Caryl Feldacker, Hannock Tweya, Richard Anderson. 2024. eHealth Data Security and Privacy: Perspectives from Diverse Stakeholders in Malawi. In *Proceedings of the ACM on Human-Computer Interaction (CSCW ‘24)*. [LINK](https://dl.acm.org/doi/10.1145/3637323)
+Li, Kwun Hung, Dickson KW Chiu, **Elaine Kong**, and Kevin KW Ho. "Mobile security awareness of university students in Hong Kong: demographics and education." *Education+ Training* 67, no. 1 (2025): 1-19.. [LINK](https://doi.org/10.1108/ET-04-2023-0128)
 
-**Lisa Orii**, Caryl Feldacker, Jacqueline Madalitso Huwa, Agness Thawani, Evelyn Viola, Christine Kiruthu-Kamamia, Odala Sande, Hannock Tweya, and Richard Anderson. 2024. HIV Client Perspectives on Digital Healthin Malawi. In *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI ‘24)*. 🏅 Best Paper Honorable Mention [LINK](https://dl.acm.org/doi/10.1145/3613904.3642245)
+**Elaine Kong**, Kuo-Ting Huang, and Aakash Gautam. "Envisioning Possibilities and Challenges of AI for Personalized Cancer Care." In *Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing*, pp. 415-421. 2024. [LINK](https://doi.org/10.1145/3678884.3681885)
 
-**Lisa Orii**, Nami Ogawa, Yuji Hatada, and Takuji Narumi. 2022. Designing for Speech Practice Systems: How Do User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Voice?. In *CHI Conference on Human Factors in Computing Systems (CHI ‘22)*. [LINK](https://dl.acm.org/doi/10.1145/3491102.3502093)
+Hui, Shing Cheong, Ming Yung Kwok, **Elaine Kong**, and Dickson KW Chiu. "Information security and technical issues of cloud storage services: a qualitative study on university students in Hong Kong." *Library Hi Tech* 42, no. 5 (2024): 1406-1425. [LINK](https://doi.org/10.1108/LHT-11-2022-0533)
 
-**Lisa Orii\***, Diana Tosca\*, Andrew Kun, and Orit Shaer. 2021. Perceptions of Trucking Automation: Insights from the r/Truckers Community. In *Proceedings of the 13th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI ‘21)*. [LINK](https://dl.acm.org/doi/10.1145/3409118.3475154)
+Lam, Kristy, **Elaine Kong**, Dickson KW Chiu, and Kevin KW Ho. "Knowledge-sharing attitude and behavior of civil servants: motivations behind rewards." *Aslib journal of information management* 76, no. 6 (2024): 1010-1028. [LINK](https://doi.org/10.1108/AJIM-01-2023-0016)
 
-**Lisa Orii**, Luis Alonso, Kent Larson. 2020. Methodology for Establishing Well-Being Urban Indicators at the District Level to be used on the CityScope Platform. In *Sustainability*. [LINK](https://www.mdpi.com/2071-1050/12/22/9458)
+Cheung, Hoi Ching, Yan Yin Marco Lo, Dickson KW Chiu, and **Elaine Kong**. "Development of smart academic library services with Internet of Things technology: a qualitative study in Hong Kong." *Library Hi Tech*, Vol. 43 No. 1 (2023): 398–422. [LINK](https://doi.org/10.1108/LHT-06-2023-0219)
 
-Di Jin, Zhijing Jin, Joey Tianyi Zhou, **Lisa Orii**, and Peter Szolovits. 2020. Hooks in the Headline: Learning to Generate Headlines with Controlled Styles. In *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL ‘20)*. [LINK](https://aclanthology.org/2020.acl-main.456/)
+Ho, Kevin KW, Patrick Lo, Dickson KW Chiu, **Elaine Kong**, Joyce Chao-chen Chen, Qingshan Zhou, Yang Xu, and Søren Dalsgard. "Intrinsic vs. extrinsic motivations of Master of Library and Information Science students: A cross-cultural comparative study." *Journal of Librarianship and Information Science* 50, no. 2 (2018): 141-156. [LINK](https://doi.org/10.1177/0961000616664564)
 
-## Abstracts
+**Elaine Kong**, Dickson KW Chiu, and Kevin KW Ho. "Applications of social media in academic library services: A case of the Hong Kong Polytechnic University Library." *International Journal of Systems and Service-Oriented Engineering (IJSSOE)* 6, no. 2 (2016): 53-65. [LINK](https://doi.org/10.4018/IJSSOE.2016040103)
 
-<!-- Chu Li, **Lisa Orii**, Mikey Saugstad, Stephen J. Mooney, Yochai Eisenberg, Delphine Labbé, Joy Hammel, Jon E. Froehlich. A Pilot Study of Sidewalk Equity in Seattle Using Crowdsourced Sidewalk Assessment Data. 2022. In *The Future of Urban Accessibility for People with Disabilities: Data Collection, Analytics, Policy, and Tools at The 24th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ‘22)*. [PDF](https://makeabilitylab.cs.washington.edu/media/publications/Li_APilotStudyOfSidewalkEquityInSeattleUsingCrowdsourcedSidewalkAssessmentData_URBANACCESS2022.pdf) -->
+Lo, Patrick, **Elaine Kong**, and Dickson KW Chiu. "Long Way for Hong Kong to Achieve Democracy: Urgent Call for the Archives Law to Protect Valuable Government Records: Informational Interview with Cyd Ho, JP." *Journal of East Asian Libraries* 2016, no. 163 (2016): 8. [LINK](https://scholarsarchive.byu.edu/jeal/vol2016/iss163/8)
 
-**Lisa Orii\***, Diana Tosca\*, Andrew Kun, and Orit Shaer. 2021. Perceptions on the Future of Automation in r/Truckers. 2021. In *Proceedings of CHI ‘21 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘21)*. [LINK](https://dl.acm.org/doi/pdf/10.1145/3411763.3451637)
+**Elaine Kong**, Dickson KW Chiu, and Patrick Lo. "The Potential of Developing a Museum Collection Management System in the Hong Kong Museum of History." In *The Asian Conference on Literature & Librarianship 2014: Official Conference Proceedings*, pp. 182-196. The International Academic Forum, 2014. [LINK](https://papers.iafor.org/wp-content/uploads/papers/librasia2014/LibrAsia2014_0455.pdf)
 
-Danielle Wood, Fohla Mouftaou, Temilola Fatoyinbo, David Lagomasino, Ufuoma Ovienmhada, Eric Ashcroft, Lelia Hampton, **Lisa Orii**, TojumiOluwa Adegboyega, Anisha Nakagawa and Julliet Wanyiri. 2019. Co-Designing an Environmental Observatory to Support Eco-Entrepreneurship in Benin. In *AGU Fall Meeting Abstracts*. [LINK](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/516235)
+## Book Review
+**Elaine Kong**. 2024. Cracking the Bro Code: by Coleen Carrigan, Cambridge, Massachusetts, The MIT Press, 2024, 193 pp., $40 (paperback), ISBN: 9780262547055. *Information, Communication & Society*, 28(2), 356–357. [LINK](https://doi.org/10.1080/1369118X.2024.2363905).
+
+<!-- ## Posters -->
