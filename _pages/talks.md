@@ -2,14 +2,17 @@
 layout: archive
 title: "Poster Presentations"
 permalink: /talks
-date: 2025-05-01
 author_profile: true
 ---
 
 
-Exploring Cancer Survivors’ Perspectives on AI Personalization and Complementary and Alternative Medicine (CAM): A Card-Based Co-Design Approach Using Kuhlthau’s Information Search Process (ISP)
+Exploring Cancer Survivors’ Perspectives on AI Personalization and Complementary and Alternative Medicine (CAM): A Card-Based Co-Design Approach Using Kuhlthau’s Information Search Process (ISP), 2025 Medical Library Association Annual Conference [Poster](/images/mla.jpg)
 
-2025 Medical Library Association Annual Conference [Poster](/images/mla.jpg)
+Envisioning Possibilities and Challenges of AI for Personalized Cancer Care, The 2024 Conference on Computer-Supported Cooperative Work and Social Computing [Poster](/images/cscw.jpg)
+
+Understanding Patient Comfort and Willingness in EHR Social Needs Documentation – A Pilot Survey, Kentucky Conference on Health Communication 2024 [Poster](/images/kchc.jpg)
+
+
 
 <!-- ## Poster Presentations -->
 
