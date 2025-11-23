@@ -20,13 +20,13 @@ Work Experience
 ======
 * Summer 2025: Intern
   * Harvard University, Harvard Library, Cambridge, MA
-    * Execute an environmental scan for inventory management systems.
-    * Develop a technology road map for the Harvard Depository to support core inventory management and retrieval processes.
+    * Executed an environmental scan for inventory management systems.
+    * Developed a technology road map for the Harvard Depository to support core inventory management and retrieval processes.
 
 * Spring 2025: Fellow
   * Yale University, Lillian Goldman Law Library, New Haven, CT
-    * Co-develop and facilitate generative AI tools workshops for the law school community. 
-    * Support library technology initiatives, including AI-related applications, data analytics, library assessment, and user experience testing.
+    * Co-developed and facilitated generative AI tools workshops for the law school community. 
+    * Supported library technology initiatives, including AI-related applications, data analytics, library assessment, and user experience testing.
 
 * 2022 – 2024: Systems Librarian
   * Georgetown University Law Library, Washington, DC
