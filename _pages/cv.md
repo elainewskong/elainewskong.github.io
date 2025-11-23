@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+<!--title: "CV"-->
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,27 +11,62 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Library and Information Science, University of Pittsburgh
+* M.Sc. in Library and Information Management, The University of Hong Kong
+* M.A. in Information Systems, City University of Hong Kong
+* B.A. (Hons) in Logistics and Supply Chain Management, University of Northumbria at Newcastle
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: Intern
+  * Harvard University, Harvard Library, Cambridge, MA
+    * Execute an environmental scan for inventory management systems.
+    * Develop a technology road map for the Harvard Depository to support core inventory management and retrieval processes.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2025: Fellow
+  * Yale University, Lillian Goldman Law Library, New Haven, CT
+    * Support key initiatives in library technology, focusing on AI-related applications, generative AI tools workshops, library assessment and data analytics, and user experience testing.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2022 – 2024: Systems Librarian
+  * Georgetown University Law Library, Washington, DC
+    * Managed integrated library system and discovery platforms, leading innovative implementations to optimize user discovery experiences and workflows.
+
+* 2021 – 2022: Technology Integration Librarian
+  * Drexel University Libraries, Philadelphia, PA
+    * Spearheaded the enhancement of Ex Libris products and implemented systems integrations to improve access and operational efficiency.
+      
+Teaching
+======
+* Fall 2025
+  * LIS 2020 Lifecycles of Data and Information
+  * LIS 2188 Open Government Data and Information: Concepts, Standards, and Impact
+* Summer 2025
+  * LIS 2500 Reference Sources and Services
+* Spring 2025
+  * LIS 2030 Data and Information in Systems
+* Summer 2024
+  * LIS 2500 Reference Sources and Services
+* Spring 2024
+  * LIS 2030 Data and Information in Systems
+
+Service and Leadership
+======
+* Association for Information Science and Technology (ASIS&T)
+  * 2025 – 2026: NEASIS&T Programming Committee Member
+  * 2025 – 2026: SIG HLTH Membership Officer
+* Chinese American Librarians Association (CALA)
+  * 2025 – 2026: Web Committee Member
+  * 2025 – 2026: Nominating Committee Member
+  * 2025 – 2026: CALASYS Subcommittee Member
+  * 2024 – 2026: Social Media Subcommittee Member
+  * 2024 – 2025: Assessment and Evaluation Committee Member
+  * 2024 – 2025: Greater Mid-Atlantic Chapter (GMA) Chapter President
+  * 2023 – 2024: Greater Mid-Atlantic Chapter (GMA) Chapter Vice President
+* American Association of Law Libraries (AALL)
+  * 2023 – 2025: LSRD-SIS Funding Research Opportunities Grant Committee Member
+
+
+<!--
 Skills
 ======
 * Skill 1
@@ -52,13 +87,12 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  
+<ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-->  
+
