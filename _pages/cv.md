@@ -55,7 +55,7 @@ Teaching
 Service and Leadership
 ======
 * American Library Association (ALA)
-  * 2026 – 2027: Election Committee Member
+  * 2026 – 2028: Election Committee Member
 * Association for Information Science and Technology (ASIS&T)
   * 2025 – 2026: NEASIS&T Programming Committee Member
   * 2025 – 2026: SIG HLTH Membership Officer
