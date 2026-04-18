@@ -38,6 +38,8 @@ Work Experience
       
 Teaching
 ======
+* Spring 2026
+  * LIS 2030 Data and Information in Systems
 * Fall 2025
   * LIS 2020 Lifecycles of Data and Information
   * LIS 2188 Open Government Data and Information: Concepts, Standards, and Impact
@@ -52,6 +54,8 @@ Teaching
 
 Service and Leadership
 ======
+* American Library Association (ALA)
+  * 2026 – 2027: Election Committee Member
 * Association for Information Science and Technology (ASIS&T)
   * 2025 – 2026: NEASIS&T Programming Committee Member
   * 2025 – 2026: SIG HLTH Membership Officer
