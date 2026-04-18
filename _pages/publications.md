@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+citation style: chicago
 ---
 
 {% include base_path %}
@@ -12,13 +13,17 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ## Peer-Reviewed Publications
 
+Chan, Sui Yan, Wing Yan Chan, Hiu Ying Chan, and **Elaine Kong**. "Mobile Reference Needs of Undergraduate Social Science Majors: A Comparative Study." Library, Information & Services 1, no. 1 (2026): 3. [LINK](https://www.sciltp.com/journals/lis/articles/2603003165)
+
+Ball, Christopher, Kuo-Ting Huang, Xuan Nie, **Elaine Kong**, and JM Shalani Dilinika. "The Generative Artificial Intelligence (GenAI) Divide: Exploring the Individual Factors Influencing GenAI Competency, Adoption Readiness, and Psychological Barriers." Cyberpsychology, Behavior, and Social Networking 29, no. 3 (2026): 184-191. [LINK](https://doi.org/10.1177/21522715261423789)
+
 **Elaine Kong**, JM Shalani Dilinika, Xuan Nie, Aakash Gautam, and Kuo‐Ting Huang. "Measuring Socio‐Ethical Engagement with Generative AI: Scale Development via Exploratory Factor Analysis." *Proceedings of the Association for Information Science and Technology* 62, no. 1 (2025): 978-983. [LINK](https://doi.org/10.1002/pra2.1325)
 
 Dilinika, JM Shalani, **Elaine Kong**, Xuan Nie, and Kuo-Ting Huang. "Predicting Perceived Lasting Benefits and Future Digital Detox Willingness from a Mood Management Perspective: A Pilot Survey Study." In *Proceedings of the ALISE Annual Conference*. 2025. [LINK](https://doi.org/10.21900/j.alise.2025.1950)
 
 Huang, Kuo-Ting, Ravi Patel, Sharon Connor, **Elaine Kong**, Xuan Nie, and Jocelyn Schmersal. 2025. “Barriers and Facilitators to Documenting Social Needs in Electronic Health Records: A Pilot Survey”. *Information Research an International Electronic Journal 30* (iConf):970-81. [LINK](https://doi.org/10.47989/ir30iConf47152)
 
-Li, Kwun Hung, Dickson KW Chiu, **Elaine Kong**, and Kevin KW Ho. "Mobile security awareness of university students in Hong Kong: demographics and education." *Education+ Training* 67, no. 1 (2025): 1-19.. [LINK](https://doi.org/10.1108/ET-04-2023-0128)
+Li, Kwun Hung, Dickson KW Chiu, **Elaine Kong**, and Kevin KW Ho. "Mobile security awareness of university students in Hong Kong: demographics and education." *Education+ Training* 67, no. 1 (2025): 1-19. [LINK](https://doi.org/10.1108/ET-04-2023-0128)
 
 **Elaine Kong**, Kuo-Ting Huang, and Aakash Gautam. "Envisioning Possibilities and Challenges of AI for Personalized Cancer Care." In *Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing*, pp. 415-421. 2024. [LINK](https://doi.org/10.1145/3678884.3681885)
 
