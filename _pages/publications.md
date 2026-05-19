@@ -13,6 +13,14 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ## Peer-Reviewed Publications
 
+**Elaine Kong**. "Negotiating Trust Across Fractured Information Landscapes: Cognitive Authority in CAM Information Practices of Chinese Immigrant Cancer Survivors." Journal of Documentation. (in press)
+
+**Elaine Kong**. "Epistemic validation in Chinese-language cancer-related CAM discourse on YouTube: identifying information frames." JMIR Infodemiology. (under review) 
+
+**Elaine Kong**. "Culturally Competent Patient Education on CAM: Strategies for Working with Chinese Immigrant Cancer Survivors." Patient Education and Counseling. (under review)
+
+Xue, Bing, **Elaine Kong**, and Dickson KW Chiu. "Mobile Access, Service Discoverability, and Electronic Resource Use after COVID19: A Qualitative Study of SOLOMO Services at the University of Hong Kong Libraries" Serials Review. (under review) 
+
 Chan, Sui Yan, Wing Yan Chan, Hiu Ying Chan, and **Elaine Kong**. "Mobile Reference Needs of Undergraduate Social Science Majors: A Comparative Study." Library, Information & Services 1, no. 1 (2026): 3. [LINK](https://www.sciltp.com/journals/lis/articles/2603003165)
 
 Ball, Christopher, Kuo-Ting Huang, Xuan Nie, **Elaine Kong**, and JM Shalani Dilinika. "The Generative Artificial Intelligence (GenAI) Divide: Exploring the Individual Factors Influencing GenAI Competency, Adoption Readiness, and Psychological Barriers." Cyberpsychology, Behavior, and Social Networking 29, no. 3 (2026): 184-191. [LINK](https://doi.org/10.1177/21522715261423789)
