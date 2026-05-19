@@ -38,6 +38,8 @@ Work Experience
       
 Teaching
 ======
+* Summer 2026
+  * LIS 2407 Metadata
 * Spring 2026
   * LIS 2030 Data and Information in Systems
 * Fall 2025
