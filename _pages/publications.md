@@ -33,7 +33,7 @@ Tuvera MIB, **Elaine Kong**, and Dickson KW Chiu. "Exploring the Impact of AI Ch
 
 Leung HY, Xie B, Dickson KW Chiu, and **Elaine Kong**. "A comparative assessment of the usability of ride-hailing services : An Exploratory Study of Uber, Amap, and Didi Chuxing in Hong Kong." *Transportation Planning and Technology*. (under review)   
 
-Chan SY, Chan WY, Chan HY, and **Elaine Kong**. "Mobile Reference Needs of Undergraduate Social Science Majors: A Comparative Study." Library, Information & Services 1, no. 1 (2026): 3. [LINK](https://www.sciltp.com/journals/lis/articles/2603003165)
+Chan SY, Chan WY, Chan HY, and **Elaine Kong**. "Mobile Reference Needs of Undergraduate Social Science Majors: A Comparative Study." *Library, Information & Services* 1, no. 1 (2026): 3. [LINK](https://www.sciltp.com/journals/lis/articles/2603003165)
 
 Ball, Christopher, Kuo-Ting Huang, Xuan Nie, **Elaine Kong**, and JM Shalani Dilinika. "The Generative Artificial Intelligence (GenAI) Divide: Exploring the Individual Factors Influencing GenAI Competency, Adoption Readiness, and Psychological Barriers." *Cyberpsychology, Behavior, and Social Networking* 29, no. 3 (2026): 184-191. [LINK](https://doi.org/10.1177/21522715261423789)
 
@@ -65,13 +65,13 @@ Lo, Patrick, **Elaine Kong**, and Dickson KW Chiu. "Long Way for Hong Kong to Ac
 **Elaine Kong**. 2024. Cracking the Bro Code: by Coleen Carrigan, Cambridge, Massachusetts, The MIT Press, 2024, 193 pp., $40 (paperback), ISBN: 9780262547055. *Information, Communication & Society*, 28(2), 356–357. [LINK](https://doi.org/10.1080/1369118X.2024.2363905).
 
 ## Public Scholarship / Commentary
-**Elaine Kong**. 2026. The double silence: When scholarly publishing can’t hear immigrant survivors. *Information Matters* [LINK](https://informationmatters.org/2026/02/the-double-silence-when-scholarly-publishing-cant-hear-immigrant-survivors/)
+**Elaine Kong**. 2026. The double silence: When scholarly publishing can’t hear immigrant survivors. *Information Matters*. [LINK](https://informationmatters.org/2026/02/the-double-silence-when-scholarly-publishing-cant-hear-immigrant-survivors/)
 
-**Elaine Kong**. 2026. When search starts answering: What libraries need to explain about AI. *Information Matters* [LINK](https://informationmatters.org/2026/04/when-search-starts-answering-what-libraries-need-to-explain-about-ai/)
+**Elaine Kong**. 2026. When search starts answering: What libraries need to explain about AI. *Information Matters*. [LINK](https://informationmatters.org/2026/04/when-search-starts-answering-what-libraries-need-to-explain-about-ai/)
 
-**Elaine Kong**. 2026. Beyond “Check the source”: Information literacy for health decisions in the age of AI. *Information Matters* [LINK](https://informationmatters.org/2026/05/beyond-check-the-source-information-literacy-for-health-decisions-in-the-age-of-ai/)
+**Elaine Kong**. 2026. Beyond “Check the source”: Information literacy for health decisions in the age of AI. *Information Matters*. [LINK](https://informationmatters.org/2026/05/beyond-check-the-source-information-literacy-for-health-decisions-in-the-age-of-ai/)
 
-**Elaine Kong**. 2026. When health claims travel faster than evidence: CAM information in networked spaces. *Information Matters* [LINK](https://informationmatters.org/2026/05/when-health-claims-travel-faster-than-evidence-cam-information-in-networked-spaces/)
+**Elaine Kong**. 2026. When health claims travel faster than evidence: CAM information in networked spaces. *Information Matters*. [LINK](https://informationmatters.org/2026/05/when-health-claims-travel-faster-than-evidence-cam-information-in-networked-spaces/)
 
 
 <!-- ## Posters -->
