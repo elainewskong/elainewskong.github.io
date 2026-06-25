@@ -60,6 +60,7 @@ Service and Leadership
   * 2026 – 2028: Election Committee Member
 * Association for Information Science and Technology (ASIS&T)
   * 2025 – 2026: NEASIS&T Programming Committee Member
+  * 2025 – 2026: NEASIS&T Conference Support Awards Committee
   * 2025 – 2026: SIG HLTH Membership Officer
 * Chinese American Librarians Association (CALA)
   * 2025 – 2026: Web Committee Member
