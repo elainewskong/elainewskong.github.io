@@ -23,7 +23,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Elaine Kong**. "Culturally Responsive Evaluation of Generative AI Health Information: A Chinese-English Cancer-Related CAM Audit Framework." *Aslib Journal of Information Management*. (under review)
 
-**Elaine Kong**. "From Needs Assessment to Contextual Inquiry: User Research for Culturally Responsive Information Services." *Library, Information & Services*. (under review)
+**Elaine Kong**. "Extending Needs Assessment Through Contextual Inquiry: User Research for Culturally Responsive Information Services." *Library, Information & Services*. (under review)
 
 Luo MT, **Elaine Kong**, and Dickson KW Chiu. "The Impact of Xiaohongshu on Consumers' Purchase Intention for Healthcare Supplement Products: A Qualitative AISAS Study of Social Commerce." *Journal of Organizational Computing and Electronic Commerce*. (under review)
 
