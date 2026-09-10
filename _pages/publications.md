@@ -13,15 +13,15 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ## Selected Publications
 
-Health Information, Trust, and Digital Health:
+**Health Information, Trust, and Digital Health:**
 
-* **Kong, E.**. (2026). Negotiating Trust Across Fractured Information Landscapes: Cognitive Authority in CAM Information Practices of Chinese Immigrant Cancer Survivors. *Journal of Documentation, 82*(7), 396-412. [LINK](https://doi.org/10.1108/JD-03-2026-0154)
+* **Kong, E.** (2026). Negotiating Trust Across Fractured Information Landscapes: Cognitive Authority in CAM Information Practices of Chinese Immigrant Cancer Survivors. *Journal of Documentation, 82*(7), 396-412. [LINK](https://doi.org/10.1108/JD-03-2026-0154)
 
-* **Kong, E.**. Epistemic validation in Chinese-language cancer-related CAM discourse on YouTube: identifying information frames. *JMIR Infodemiology*. (under review) 
+* **Kong, E.** Epistemic validation in Chinese-language cancer-related CAM discourse on YouTube: identifying information frames. *JMIR Infodemiology*. (under review) 
 
-* **Kong, E.**. From Visibility to Plausibility: Platformed Credibility of Complementary and Alternative Medicine Claims in Chinese-Language Digital Health Ecosystems. *Online Information Review*. (under review)
+* **Kong, E.** From Visibility to Plausibility: Platformed Credibility of Complementary and Alternative Medicine Claims in Chinese-Language Digital Health Ecosystems. *Online Information Review*. (under review)
 
-* **Kong, E.**. Culturally Competent Patient Education on CAM: Strategies for Working with Chinese Immigrant Cancer Survivors. *Patient Education and Counseling*. (under review)
+* **Kong, E.** Culturally Competent Patient Education on CAM: Strategies for Working with Chinese Immigrant Cancer Survivors. *Patient Education and Counseling*. (under review)
 
 * **Kong, E.** and Chi, Y. Complementary and Alternative Medicine Information Practices in Cancer Care and Survivorship: A Scoping Review of Information Needs, Communication, and Safety. *Health Information & Libraries Journal*. (under review) 
 
@@ -29,9 +29,9 @@ Health Information, Trust, and Digital Health:
 
 * Daraz, L., **Kong, E.**, and Chang, B. Countering online health misinformation with an evidence-based tool: perspectives of health information providers. *Frontiers in Public Health*. (under review)
 
-AI, Information Systems, and Human-Centered Technologies:
+**AI, Information Systems, and Human-Centered Technologies:**
 
-* **Kong, E.**. Culturally Responsive Auditing of Generative AI Health Information Systems: Chinese-English Cancer-Related Complementary and Alternative Medicine Queries. *Library Hi Tech*. (under review)
+* **Kong, E.** Culturally Responsive Auditing of Generative AI Health Information Systems: Chinese-English Cancer-Related Complementary and Alternative Medicine Queries. *Library Hi Tech*. (under review)
 
 * **Kong, E.**, Dilinika, J.S., Nie, X., Gautam, A., and Huang, K.T. (2025). Measuring Socio‐Ethical Engagement with Generative AI: Scale Development via Exploratory Factor Analysis. *Proceedings of the Association for Information Science and Technology, 62*(1), 978-983. [LINK](https://doi.org/10.1002/pra2.1325)
 
@@ -43,14 +43,14 @@ AI, Information Systems, and Human-Centered Technologies:
 
 * Li, K.H., Chiu, D.K.W., **Kong, E.**, and Ho, K.K.W. (2025). Mobile security awareness of university students in Hong Kong: demographics and education. *Education+ Training, 67*(1), 1-19. [LINK](https://doi.org/10.1108/ET-04-2023-0128)
 
-* Luo, M.T., **Elaine Kong**, and Dickson KW Chiu. The Impact of Xiaohongshu on Consumers' Purchase Intention for Healthcare Supplement Products: A Qualitative AISAS Study of Social Commerce. *Journal of Organizational Computing and Electronic Commerce*. (under review)
+* Luo, M.T., **Kong, E.**, and Chiu, D.K.W. The Impact of Xiaohongshu on Consumers' Purchase Intention for Healthcare Supplement Products: A Qualitative AISAS Study of Social Commerce. *Journal of Organizational Computing and Electronic Commerce*. (under review)
 
 * Tuvera, M.I.B., **Kong, E.**, and Chiu, D.K.W. Exploring the Impact of AI Chatbot Information Retrieval on Self-Motivation in
 University Learning A Qualitative Study through the Lens of Self-Determination Theory. *Journal	of the Knowledge Economy*. (under review) 
 
-Libraries, Information Services, and LIS Education:
+**Libraries, Information Services, and LIS Education:**
 
-* **Kong, E.**. (2026). Extending Needs Assessment Through Contextual Inquiry: User Research for Culturally Responsive Information Services. *Library, Information & Services, 1*(1), 7. [LINK](https://www.sciltp.com/journals/lis/articles/2607004735)
+* **Kong, E.** (2026). Extending Needs Assessment Through Contextual Inquiry: User Research for Culturally Responsive Information Services. *Library, Information & Services, 1*(1), 7. [LINK](https://www.sciltp.com/journals/lis/articles/2607004735)
 
 * Chan, S.Y., Chan, W.Y., Chan, H.Y., and **Kong, E.**. (2026). Mobile Reference Needs of Undergraduate Social Science Majors: A Comparative Study. *Library, Information & Services, 1*(1), 3. [LINK](https://www.sciltp.com/journals/lis/articles/2603003165)
 
@@ -66,7 +66,7 @@ Libraries, Information Services, and LIS Education:
 
 * Xue, B., **Kong, E.**, and Chiu, D.K.W. Mobile Access, Service Discoverability, and Electronic Resource Use after COVID19: A Qualitative Study of SOLOMO Services at the University of Hong Kong Libraries *Serials Review*. (under review)
 
-Archives, Cultural Heritage, and Information Policy:
+**Archives, Cultural Heritage, and Information Policy:**
 
 * Lo, P., **Kong, E.**, and Chiu, D.K.W. (2016). Long Way for Hong Kong to Achieve Democracy: Urgent Call for the Archives Law to Protect Valuable Government Records: Informational Interview with Cyd Ho, JP. *Journal of East Asian Libraries, 163*, 8. [LINK](https://scholarsarchive.byu.edu/jeal/vol2016/iss163/8)
 
@@ -75,16 +75,16 @@ Archives, Cultural Heritage, and Information Policy:
 * Lau, T.F., **Kong, E.**, Chiu, D.K.W. Organizational Social Capital, Professional Identity, and Cultural Exhibition Work in Academic Libraries. *The Journal of Academic Librarianship*. (under review)
 
 ## Book Review
-**Kong, E.**. 2024. Cracking the Bro Code: by Coleen Carrigan, Cambridge, Massachusetts, The MIT Press, 2024, 193 pp., $40 (paperback), ISBN: 9780262547055. *Information, Communication & Society*, 28(2), 356–357. [LINK](https://doi.org/10.1080/1369118X.2024.2363905).
+**Kong, E.** 2024. Cracking the Bro Code: by Coleen Carrigan, Cambridge, Massachusetts, The MIT Press, 2024, 193 pp., $40 (paperback), ISBN: 9780262547055. *Information, Communication & Society*, 28(2), 356–357. [LINK](https://doi.org/10.1080/1369118X.2024.2363905).
 
 ## Public Scholarship / Commentary
-**Kong, E.**. 2026. The double silence: When scholarly publishing can’t hear immigrant survivors. *Information Matters*. [LINK](https://informationmatters.org/2026/02/the-double-silence-when-scholarly-publishing-cant-hear-immigrant-survivors/)
+**Kong, E.** 2026. The double silence: When scholarly publishing can’t hear immigrant survivors. *Information Matters*. [LINK](https://informationmatters.org/2026/02/the-double-silence-when-scholarly-publishing-cant-hear-immigrant-survivors/)
 
-**Kong, E.**. 2026. When search starts answering: What libraries need to explain about AI. *Information Matters*. [LINK](https://informationmatters.org/2026/04/when-search-starts-answering-what-libraries-need-to-explain-about-ai/)
+**Kong, E.** 2026. When search starts answering: What libraries need to explain about AI. *Information Matters*. [LINK](https://informationmatters.org/2026/04/when-search-starts-answering-what-libraries-need-to-explain-about-ai/)
 
-**Kong, E.**. 2026. Beyond “Check the source”: Information literacy for health decisions in the age of AI. *Information Matters*. [LINK](https://informationmatters.org/2026/05/beyond-check-the-source-information-literacy-for-health-decisions-in-the-age-of-ai/)
+**Kong, E.** 2026. Beyond “Check the source”: Information literacy for health decisions in the age of AI. *Information Matters*. [LINK](https://informationmatters.org/2026/05/beyond-check-the-source-information-literacy-for-health-decisions-in-the-age-of-ai/)
 
-**Kong, E.**. 2026. When health claims travel faster than evidence: CAM information in networked spaces. *Information Matters*. [LINK](https://informationmatters.org/2026/05/when-health-claims-travel-faster-than-evidence-cam-information-in-networked-spaces/)
+**Kong, E.** 2026. When health claims travel faster than evidence: CAM information in networked spaces. *Information Matters*. [LINK](https://informationmatters.org/2026/05/when-health-claims-travel-faster-than-evidence-cam-information-in-networked-spaces/)
 
 
 <!-- ## Posters -->
