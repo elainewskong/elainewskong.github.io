@@ -52,13 +52,13 @@ University Learning A Qualitative Study through the Lens of Self-Determination T
 
 * **Kong, E.** (2026). Extending Needs Assessment Through Contextual Inquiry: User Research for Culturally Responsive Information Services. *Library, Information & Services, 1*(1), 7. [LINK](https://www.sciltp.com/journals/lis/articles/2607004735)
 
-* Chan, S.Y., Chan, W.Y., Chan, H.Y., and **Kong, E.**. (2026). Mobile Reference Needs of Undergraduate Social Science Majors: A Comparative Study. *Library, Information & Services, 1*(1), 3. [LINK](https://www.sciltp.com/journals/lis/articles/2603003165)
+* Chan, S.Y., Chan, W.Y., Chan, H.Y., and **Kong, E.** (2026). Mobile Reference Needs of Undergraduate Social Science Majors: A Comparative Study. *Library, Information & Services, 1*(1), 3. [LINK](https://www.sciltp.com/journals/lis/articles/2603003165)
 
 * Hui, S.C., Kwok, M.Y., **Kong, E.**, and Chiu, D.K.W. (2024). Information security and technical issues of cloud storage services: a qualitative study on university students in Hong Kong. *Library Hi Tech, 42*(5), 1406-1425. [LINK](https://doi.org/10.1108/LHT-11-2022-0533)
 
 * Lam, K., **Kong, E.**, Chiu, D.K.W., and Ho, K.K.W. (2024). Knowledge-sharing attitude and behavior of civil servants: motivations behind rewards. *Aslib journal of information management, 76*(6), 1010-1028. [LINK](https://doi.org/10.1108/AJIM-01-2023-0016)
 
-* Cheung, H.C., Lo, M.Y.Y., Chiu, D.K.W., and **Kong, E.**. (2023). Development of smart academic library services with Internet of Things technology: a qualitative study in Hong Kong. *Library Hi Tech, 43*(1), 398–422. [LINK](https://doi.org/10.1108/LHT-06-2023-0219)
+* Cheung, H.C., Lo, M.Y.Y., Chiu, D.K.W., and **Kong, E.** (2023). Development of smart academic library services with Internet of Things technology: a qualitative study in Hong Kong. *Library Hi Tech, 43*(1), 398–422. [LINK](https://doi.org/10.1108/LHT-06-2023-0219)
 
 * Ho, K.K.W., Lo, P., Chiu, D.K.W., **Kong, E.**, Chen, J.C.C., Zhou, Q., Xu, Y., and Dalsgard, S. (2018). Intrinsic vs. extrinsic motivations of Master of Library and Information Science students: A cross-cultural comparative study. *Journal of Librarianship and Information Science, 50*(2), 141-156. [LINK](https://doi.org/10.1177/0961000616664564)
 
