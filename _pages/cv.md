@@ -38,6 +38,8 @@ Work Experience
       
 Teaching
 ======
+* Fall 2026
+  * LIS 2020 Lifecycles of Data and Information
 * Summer 2026
   * LIS 2407 Metadata
 * Spring 2026
