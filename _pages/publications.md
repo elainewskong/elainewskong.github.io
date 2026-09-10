@@ -17,7 +17,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 * **Kong, E.** (2026). Negotiating Trust Across Fractured Information Landscapes: Cognitive Authority in CAM Information Practices of Chinese Immigrant Cancer Survivors. *Journal of Documentation, 82*(7), 396-412. [LINK](https://doi.org/10.1108/JD-03-2026-0154)
 
-* **Kong, E.** Epistemic validation in Chinese-language cancer-related CAM discourse on YouTube: identifying information frames. *JMIR Infodemiology*. (under review) 
+* **Kong, E.** Culturally Situated Health Information Frames in Chinese-Language YouTube Discussions of Cancer-Related Complementary and Alternative Medicine. *Health Information & Libraries Journal*. (under review) 
 
 * **Kong, E.** From Visibility to Plausibility: Platformed Credibility of Complementary and Alternative Medicine Claims in Chinese-Language Digital Health Ecosystems. *Online Information Review*. (under review)
 
