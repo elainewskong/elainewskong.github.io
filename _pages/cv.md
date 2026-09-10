@@ -68,10 +68,11 @@ Service and Leadership
 * Asian Pacific American Librarians Association (APALA)
   * 2026 – 2027: Program Planning Committee Member
 * Chinese American Librarians Association (CALA)
-  * 2025 – 2026: Web Committee Member
+  * 2026 – 2027: Social Media Sub-committee Co-chair
+  * 2025 – 2027: Web Committee Member
   * 2025 – 2026: Nominating Committee Member
-  * 2025 – 2026: CALASYS Subcommittee Member
-  * 2024 – 2026: Social Media Subcommittee Member
+  * 2025 – 2026: CALASYS Sub-committee Member
+  * 2024 – 2026: Social Media Sub-committee Member
   * 2024 – 2025: Assessment and Evaluation Committee Member
   * 2024 – 2025: Greater Mid-Atlantic Chapter (GMA) Chapter President
   * 2023 – 2024: Greater Mid-Atlantic Chapter (GMA) Chapter Vice President
