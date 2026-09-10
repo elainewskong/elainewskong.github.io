@@ -48,6 +48,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 * Tuvera, M.I.B., **Kong, E.**, and Chiu, D.K.W. Exploring the Impact of AI Chatbot Information Retrieval on Self-Motivation in
 University Learning A Qualitative Study through the Lens of Self-Determination Theory. *Journal	of the Knowledge Economy*. (under review) 
 
+* Pan, H., **Kong, E.**, Lam, A.H.C., and Chiu, D.K.W. University Students' Use of GenAI in Coursework Writing: A Qualitative Study in Hong Kong. *The Journal of Academic Librarianship*. (under review)  
+
 **Libraries, Information Services, and LIS Education:**
 
 * **Kong, E.** (2026). Extending Needs Assessment Through Contextual Inquiry: User Research for Culturally Responsive Information Services. *Library, Information & Services, 1*(1), 7. [LINK](https://www.sciltp.com/journals/lis/articles/2607004735)
@@ -65,6 +67,8 @@ University Learning A Qualitative Study through the Lens of Self-Determination T
 * **Kong, E.**, Chiu, D.K.W., and Ho, K.K.W. (2016). Applications of social media in academic library services: A case of the Hong Kong Polytechnic University Library. *International Journal of Systems and Service-Oriented Engineering (IJSSOE), 6*(2), 53-65. [LINK](https://doi.org/10.4018/IJSSOE.2016040103)
 
 * Xue, B., **Kong, E.**, and Chiu, D.K.W. Mobile Access, Service Discoverability, and Electronic Resource Use after COVID-19: A Qualitative Study of SOLOMO Services at the University of Hong Kong Libraries. *Serials Review*. (under review)
+
+* Yang, L., **Kong, E.**, Lam, A.H.C., Chiu, D.K.W. LIS Students’ Perceptions and Usage Behaviors of Generative AI: A Qualitative Study Guided by a Novel 8E Instructional Model. *Journal of Librarianship and Information Science*. (under review)
 
 **Archives, Cultural Heritage, and Information Policy:**
 
