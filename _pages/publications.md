@@ -64,7 +64,7 @@ University Learning A Qualitative Study through the Lens of Self-Determination T
 
 * **Kong, E.**, Chiu, D.K.W., and Ho, K.K.W. (2016). Applications of social media in academic library services: A case of the Hong Kong Polytechnic University Library. *International Journal of Systems and Service-Oriented Engineering (IJSSOE), 6*(2), 53-65. [LINK](https://doi.org/10.4018/IJSSOE.2016040103)
 
-* Xue, B., **Kong, E.**, and Chiu, D.K.W. Mobile Access, Service Discoverability, and Electronic Resource Use after COVID19: A Qualitative Study of SOLOMO Services at the University of Hong Kong Libraries. *Serials Review*. (under review)
+* Xue, B., **Kong, E.**, and Chiu, D.K.W. Mobile Access, Service Discoverability, and Electronic Resource Use after COVID-19: A Qualitative Study of SOLOMO Services at the University of Hong Kong Libraries. *Serials Review*. (under review)
 
 **Archives, Cultural Heritage, and Information Policy:**
 
