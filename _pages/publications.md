@@ -29,6 +29,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 * Daraz, L., **Kong, E.**, and Chang, B. Countering online health misinformation with an evidence-based tool: perspectives of health information providers. *Frontiers in Public Health*. (under review)
 
+* **Kong, E.**, and Gautam, A. Cards as Boundary Objects for Surfacing Cancer Survivors’ Tacit Needs Around Complementary and Alternative Medicine and AI Personalization: Qualitative Co-Design Study. *JMIR Formative Research*. (under review)
+
 **AI, Information Systems, and Human-Centered Technologies:**
 
 * **Kong, E.** Culturally Responsive Auditing of Generative AI Health Information Systems: Chinese-English Cancer-Related Complementary and Alternative Medicine Queries. *Library Hi Tech*. (under review)
@@ -68,7 +70,7 @@ University Learning A Qualitative Study through the Lens of Self-Determination T
 
 * Xue, B., **Kong, E.**, and Chiu, D.K.W. Mobile Access, Service Discoverability, and Electronic Resource Use after COVID-19: A Qualitative Study of SOLOMO Services at the University of Hong Kong Libraries. *Serials Review*. (under review)
 
-* Yang, L., **Kong, E.**, Lam, A.H.C., and Chiu, D.K.W. LIS Students’ Perceptions and Usage Behaviors of Generative AI: A Qualitative Study Guided by a Novel 8E Instructional Model. *Journal of Librarianship and Information Science*. (under review)
+* Yang, L., **Kong, E.**, Lam, A.H.C., and Chiu, D.K.W. LIS Students’ Perceptions and Usage Behaviors of Generative AI: A Qualitative Study Guided by a Novel 8E Instructional Model. *Journal of the Australian Library and Information Association*. (under review)
 
 **Archives, Cultural Heritage, and Information Policy:**
 
@@ -77,6 +79,8 @@ University Learning A Qualitative Study through the Lens of Self-Determination T
 * **Kong, E.**, Chiu, D.K.W., and Lo, P. (2014). The Potential of Developing a Museum Collection Management System in the Hong Kong Museum of History. In *The Asian Conference on Literature & Librarianship 2014: Official Conference Proceedings*, The International Academic Forum, pp. 182-196. [LINK](https://papers.iafor.org/wp-content/uploads/papers/librasia2014/LibrAsia2014_0455.pdf)
 
 * Lau, T.F., **Kong, E.**, and Chiu, D.K.W. Organizational Social Capital, Professional Identity, and Cultural Exhibition Work in Academic Libraries. *The Journal of Academic Librarianship*. (under review)
+
+* **Kong, E.**, and Danley, H.M. Structural Silences in Controlled Vocabularies: A Comparative Analysis of Trauma Representation in LCSH and MeSH. *Cataloging & Classification Quarterly*. (under review)
 
 ## Book Review
 **Kong, E.** 2024. Cracking the Bro Code: by Coleen Carrigan, Cambridge, Massachusetts, The MIT Press, 2024, 193 pp., $40 (paperback), ISBN: 9780262547055. *Information, Communication & Society*, 28(2), 356–357. [LINK](https://doi.org/10.1080/1369118X.2024.2363905).
