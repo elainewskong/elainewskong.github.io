@@ -58,13 +58,15 @@ Teaching
 
 Service and Leadership
 ======
-* American Library Association (ALA)
-  * 2026 – 2028: Election Committee Member
-  * 2026 – 2028: Services to Refugees, Immigrants, and Displaced Persons (SRIDP) Sub-Committee Member
+* Association for Library and Information Science Education (ALISE)
+  * 2026 – 2027: Community Building Committee
 * Association for Information Science and Technology (ASIS&T)
   * 2025 – 2027: SIG HLTH Membership Officer
   * 2025 – 2027: NEASIS&T Programming Committee Member
   * 2025 – 2026: NEASIS&T Conference Support Awards Committee Member
+* American Library Association (ALA)
+  * 2026 – 2028: Election Committee Member
+  * 2026 – 2028: Services to Refugees, Immigrants, and Displaced Persons (SRIDP) Sub-Committee Member
 * Asian Pacific American Librarians Association (APALA)
   * 2026 – 2027: Program Planning Committee Member
 * Chinese American Librarians Association (CALA)
