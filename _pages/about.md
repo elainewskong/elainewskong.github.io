@@ -10,7 +10,7 @@ redirect_from:
 I'm Elaine Kong, a PhD student in Library and Information Science at the School of Computing and Information, University of Pittsburgh. My research examines how cancer survivors in underserved communities seek, evaluate, and use online health information, particularly information about complementary and alternative medicine (CAM). I study how cultural, linguistic, and social contexts shape credibility judgments and informed decision-making, and how information systems and services can better support culturally responsive health information practices and reduce the risks of misinformation.
 
 Recent Updates:
-* Sep 2026: Joined the Public Health Information Science Initiative [(PHISI)](https://phisi.ubc.ca/)
+* Sep 2026: Joined the Public Health Information Science Initiative ([PHISI](https://phisi.ubc.ca/))
 * Aug 2026: Received the [CNI Paul Evan Peters Scholarship](https://www.cni.org/about-cni/awards/pep-scholarship/2026-28-violeta-duncan-and-elaine-kong)
 * Jun 2026: Published in *Journal of Documentation* ([link](https://doi.org/10.1108/JD-03-2026-0154))
 * Aug 2025: Completed the internship at Harvard Library
