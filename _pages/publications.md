@@ -78,7 +78,7 @@ University Learning A Qualitative Study through the Lens of Self-Determination T
 
 * **Kong, E.**, Chiu, D.K.W., and Lo, P. (2014). The Potential of Developing a Museum Collection Management System in the Hong Kong Museum of History. In *The Asian Conference on Literature & Librarianship 2014: Official Conference Proceedings*, The International Academic Forum, pp. 182-196. [LINK](https://papers.iafor.org/wp-content/uploads/papers/librasia2014/LibrAsia2014_0455.pdf)
 
-* Lau, T.F., **Kong, E.**, and Chiu, D.K.W. Organizational Social Capital, Professional Identity, and Cultural Exhibition Work in Academic Libraries. *The Journal of Academic Librarianship*. (under review)
+* Lau, T.F., **Kong, E.**, and Chiu, D.K.W. Organizational Social Capital, Professional Identity, and Cultural Exhibition Work in Academic Libraries. *The Journal of Academic Librarianship*, 52(6), 103353. [LINK](https://doi.org/10.1016/j.acalib.2026.103353)
 
 * **Kong, E.**, and Danley, H.M. Structural Silences in Controlled Vocabularies: A Comparative Analysis of Trauma Representation in LCSH and MeSH. *Cataloging & Classification Quarterly*. (under review)
 
