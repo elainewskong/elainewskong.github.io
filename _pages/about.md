@@ -9,7 +9,12 @@ redirect_from:
 
 I'm Elaine Kong, a PhD student in Library and Information Science at the School of Computing and Information, University of Pittsburgh. My research examines how cancer survivors in underserved communities seek, evaluate, and use online health information, particularly information about complementary and alternative medicine (CAM). I study how cultural, linguistic, and social contexts shape credibility judgments and informed decision-making, and how information systems and services can better support culturally responsive health information practices and reduce the risks of misinformation.
 
-
+Recent Updates:
+* Sep 2026: Joined the Public Health Information Science Initiative [(PHISI)](https://phisi.ubc.ca/)
+* Aug 2026: Received the [CNI Paul Evan Peters Scholarship](https://www.cni.org/about-cni/awards/pep-scholarship/2026-28-violeta-duncan-and-elaine-kong)
+* Jun 2026: Published in *Journal of Documentation* ([link](https://doi.org/10.1108/JD-03-2026-0154))
+* Aug 2025: Completed the internship at Harvard Library
+* Jun 2025: Completed the fellowship at [Yale Law Library](https://library.law.yale.edu/news/meet-elaine-kong-visiting-aall-george-strait-fellow)
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
