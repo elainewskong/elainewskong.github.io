@@ -21,8 +21,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 * **Kong, E.** From Visibility to Plausibility: Platformed Credibility of Complementary and Alternative Medicine Claims in Chinese-Language Digital Health Ecosystems. *Online Information Review*. (revise and resubmit)
 
+<!--
 * **Kong, E.** Culturally Competent Patient Education on CAM: Strategies for Working with Chinese Immigrant Cancer Survivors. *Patient Education and Counseling*. (under review)
-
+-->
 * **Kong, E.** and Chi, Y. Complementary and Alternative Medicine Information Practices in Cancer Care and Survivorship: A Scoping Review of Information Needs, Communication, and Safety. *Health Information & Libraries Journal*. (under review) 
 
 * Huang, K.T., Patel, R., Connor, S., **Kong, E.**, Nie, X., and Schmersal, J. (2025). Barriers and Facilitators to Documenting Social Needs in Electronic Health Records: A Pilot Survey. *Information Research an International Electronic Journal 30* (iConf), 970-81. [LINK](https://doi.org/10.47989/ir30iConf47152)
