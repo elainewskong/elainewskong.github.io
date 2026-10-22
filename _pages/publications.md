@@ -83,16 +83,16 @@ University Learning A Qualitative Study through the Lens of Self-Determination T
 * **Kong, E.**, and Danley, H.M. Structural Silences in Controlled Vocabularies: A Comparative Analysis of Trauma Representation in LCSH and MeSH. *Cataloging & Classification Quarterly*. (under review)
 
 ## Book Review
-**Kong, E.** 2024. Cracking the Bro Code: by Coleen Carrigan, Cambridge, Massachusetts, The MIT Press, 2024, 193 pp., $40 (paperback), ISBN: 9780262547055. *Information, Communication & Society*, 28(2), 356–357. [LINK](https://doi.org/10.1080/1369118X.2024.2363905).
+* **Kong, E.** 2024. Cracking the Bro Code: by Coleen Carrigan, Cambridge, Massachusetts, The MIT Press, 2024, 193 pp., $40 (paperback), ISBN: 9780262547055. *Information, Communication & Society*, 28(2), 356–357. [LINK](https://doi.org/10.1080/1369118X.2024.2363905).
 
 ## Public Scholarship / Commentary
-**Kong, E.** 2026. The double silence: When scholarly publishing can’t hear immigrant survivors. *Information Matters*. [LINK](https://informationmatters.org/2026/02/the-double-silence-when-scholarly-publishing-cant-hear-immigrant-survivors/)
+* **Kong, E.** 2026. The double silence: When scholarly publishing can’t hear immigrant survivors. *Information Matters*. [LINK](https://informationmatters.org/2026/02/the-double-silence-when-scholarly-publishing-cant-hear-immigrant-survivors/)
 
-**Kong, E.** 2026. When search starts answering: What libraries need to explain about AI. *Information Matters*. [LINK](https://informationmatters.org/2026/04/when-search-starts-answering-what-libraries-need-to-explain-about-ai/)
+* **Kong, E.** 2026. When search starts answering: What libraries need to explain about AI. *Information Matters*. [LINK](https://informationmatters.org/2026/04/when-search-starts-answering-what-libraries-need-to-explain-about-ai/)
 
-**Kong, E.** 2026. Beyond “Check the source”: Information literacy for health decisions in the age of AI. *Information Matters*. [LINK](https://informationmatters.org/2026/05/beyond-check-the-source-information-literacy-for-health-decisions-in-the-age-of-ai/)
+* **Kong, E.** 2026. Beyond “Check the source”: Information literacy for health decisions in the age of AI. *Information Matters*. [LINK](https://informationmatters.org/2026/05/beyond-check-the-source-information-literacy-for-health-decisions-in-the-age-of-ai/)
 
-**Kong, E.** 2026. When health claims travel faster than evidence: CAM information in networked spaces. *Information Matters*. [LINK](https://informationmatters.org/2026/05/when-health-claims-travel-faster-than-evidence-cam-information-in-networked-spaces/)
+* **Kong, E.** 2026. When health claims travel faster than evidence: CAM information in networked spaces. *Information Matters*. [LINK](https://informationmatters.org/2026/05/when-health-claims-travel-faster-than-evidence-cam-information-in-networked-spaces/)
 
 
 <!-- ## Posters -->
