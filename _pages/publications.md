@@ -19,7 +19,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 * **Kong, E.** Culturally Situated Health Information Frames in Chinese-Language YouTube Discussions of Cancer-Related Complementary and Alternative Medicine. *Health Information & Libraries Journal*. (under review) 
 
-* **Kong, E.** From Visibility to Plausibility: Platformed Credibility of Complementary and Alternative Medicine Claims in Chinese-Language Digital Health Ecosystems. *Online Information Review*. (under review)
+* **Kong, E.** From Visibility to Plausibility: Platformed Credibility of Complementary and Alternative Medicine Claims in Chinese-Language Digital Health Ecosystems. *Online Information Review*. (revise and resubmit)
 
 * **Kong, E.** Culturally Competent Patient Education on CAM: Strategies for Working with Chinese Immigrant Cancer Survivors. *Patient Education and Counseling*. (under review)
 
@@ -33,7 +33,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **AI, Information Systems, and Human-Centered Technologies:**
 
-* **Kong, E.** Culturally Responsive Auditing of Generative AI Health Information Systems: Chinese-English Cancer-Related Complementary and Alternative Medicine Queries. *Library Hi Tech*. (under review)
+* **Kong, E.** Culturally Responsive Auditing of Generative AI Health Information Systems: Chinese-English Cancer-Related Complementary and Alternative Medicine Queries. *Library Hi Tech*. (revise and resubmit)
 
 * **Kong, E.**, Dilinika, J.S., Nie, X., Gautam, A., and Huang, K.T. (2025). Measuring Socio‐Ethical Engagement with Generative AI: Scale Development via Exploratory Factor Analysis. *Proceedings of the Association for Information Science and Technology, 62*(1), 978-983. [LINK](https://doi.org/10.1002/pra2.1325)
 
@@ -50,7 +50,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 * Tuvera, M.I.B., **Kong, E.**, and Chiu, D.K.W. Exploring the Impact of AI Chatbot Information Retrieval on Self-Motivation in
 University Learning A Qualitative Study through the Lens of Self-Determination Theory. *Journal	of the Knowledge Economy*. (under review) 
 
-* Pan, H., **Kong, E.**, Lam, A.H.C., and Chiu, D.K.W. University Students' Use of GenAI in Coursework Writing: A Qualitative Study in Hong Kong. *The Journal of Academic Librarianship*. (under review)  
+* Pan, H., **Kong, E.**, Lam, A.H.C., and Chiu, D.K.W. University Students' Use of GenAI in Coursework Writing: A Qualitative Study in Hong Kong. *The Journal of Academic Librarianship*. (revise and resubmit)  
 
 **Libraries, Information Services, and LIS Education:**
 
