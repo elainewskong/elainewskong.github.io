@@ -15,9 +15,7 @@ Selected projects from my ongoing research are highlighted below.
 
 **Dissertation Research | Ongoing**
 
-This project examines how Chinese immigrant cancer survivors and family support persons seek, evaluate, translate, filter, use, and communicate CAM-related information. Using qualitative interviews, the study explores how family relationships, language, cultural knowledge, clinical care, and digital environments shape information experiences and credibility judgments.
-
-The goal is to better understand family-mediated health information practices and inform culturally responsive information support for cancer survivors and their families.
+This project examines how Chinese immigrant cancer survivors and family support persons seek, evaluate, use, and communicate CAM-related information. It focuses on how family, language, culture, clinical care, and digital environments shape these information experiences and the support survivors may need.
 
 **Related work:**
 
@@ -27,9 +25,7 @@ The goal is to better understand family-mediated health information practices an
 
 **Ongoing Research**
 
-This research examines how cancer-related CAM information gains credibility in Chinese-language digital environments. I study how different forms of evidence, cultural familiarity, personal experience, social endorsement, and platform visibility shape what information appears trustworthy or plausible.
-
-This work connects information behavior and credibility research with questions about misinformation and platformed health information.
+This research examines how Chinese-language digital environments shape the cues people may use to judge cancer-related CAM information. It focuses on platform visibility, repeated exposure, social endorsement, language, and cultural context.
 
 **Related publication:**
 
@@ -43,9 +39,7 @@ This work connects information behavior and credibility research with questions 
 
 **Ongoing Research**
 
-This project examines how generative AI systems respond to cancer-related CAM questions in Chinese and English. It develops culturally responsive approaches for evaluating AI-generated health information, with attention to evidence, safety, cultural context, and communication quality.
-
-The broader goal is to understand how AI-mediated health information systems can better support people who navigate information across languages and knowledge traditions.
+This project examines how generative AI systems respond to cancer-related CAM questions in Chinese and English. It focuses on how well AI responses address safety, evidence, uncertainty, language, cultural context, and communication with healthcare professionals.
 
 **Related manuscript:**
 
@@ -55,9 +49,7 @@ The broader goal is to understand how AI-mediated health information systems can
 
 **Collaborative Research**
 
-This project uses bilingual card-based co-design with cancer survivors to explore needs and preferences related to CAM information and AI personalization. The cards help participants discuss experiences and needs that may be difficult to express through conventional interviews alone.
-
-The project also examines how participatory methods can inform the design of more responsive health information and AI systems.
+This project develops a bilingual card-based co-design method to help cancer survivors express needs and concerns that may be difficult to describe directly. The study uses CAM and AI personalization to examine how the cards support discussion across differences in language, culture, and health knowledge.
 
 **Related manuscript:**
 
