@@ -30,7 +30,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 * Daraz, L., **Kong, E.**, and Chang, B. Countering online health misinformation with an evidence-based tool: perspectives of health information providers. *Frontiers in Public Health*. (under review)
 
-* **Kong, E.**, and Gautam, A. Cards as Boundary Objects for Surfacing Cancer Survivors’ Tacit Needs Around Complementary and Alternative Medicine and AI Personalization: Qualitative Co-Design Study. *JMIR Formative Research*. (under review)
+* **Kong, E.** and Gautam, A. Cards as Boundary Objects for Surfacing Cancer Survivors’ Tacit Needs Around Complementary and Alternative Medicine and AI Personalization: Qualitative Co-Design Study. *JMIR Formative Research*. (under review)
 
 **AI, Information Systems, and Human-Centered Technologies:**
 
@@ -83,7 +83,7 @@ University Learning A Qualitative Study through the Lens of Self-Determination T
 
 * Lau, T.F., **Kong, E.**, and Chiu, D.K.W. Organizational Social Capital, Professional Identity, and Cultural Exhibition Work in Academic Libraries. *The Journal of Academic Librarianship*, 52(6), 103353. [LINK](https://doi.org/10.1016/j.acalib.2026.103353)
 
-* **Kong, E.**, and Danley, H.M. Structural Silences in Controlled Vocabularies: A Comparative Analysis of Trauma Representation in LCSH and MeSH. *Cataloging & Classification Quarterly*. (under review)
+* **Kong, E.** and Danley, H.M. Structural Silences in Controlled Vocabularies: A Comparative Analysis of Trauma Representation in LCSH and MeSH. *Cataloging & Classification Quarterly*. (under review)
 
 ## Book Review
 * **Kong, E.** 2024. Cracking the Bro Code: by Coleen Carrigan, Cambridge, Massachusetts, The MIT Press, 2024, 193 pp., $40 (paperback), ISBN: 9780262547055. *Information, Communication & Society*, 28(2), 356–357. [LINK](https://doi.org/10.1080/1369118X.2024.2363905).
