@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 
-The Craft of Knowing: CAM Information Practices in the Fractured Information Landscapes of Chinese Immigrant Cancer Survivors, ALISE 2026 Annual Conference [Poster]<!--(/images/alise.jpg)-->
+* The Craft of Knowing: CAM Information Practices in the Fractured Information Landscapes of Chinese Immigrant Cancer Survivors, ALISE 2026 Annual Conference [Poster]<!--(/images/alise.jpg)-->
 
-Exploring Cancer Survivors’ Perspectives on AI Personalization and Complementary and Alternative Medicine (CAM): A Card-Based Co-Design Approach Using Kuhlthau’s Information Search Process (ISP), 2025 Medical Library Association Annual Conference [Poster](/images/mla.jpg)
+* Exploring Cancer Survivors’ Perspectives on AI Personalization and Complementary and Alternative Medicine (CAM): A Card-Based Co-Design Approach Using Kuhlthau’s Information Search Process (ISP), 2025 Medical Library Association Annual Conference [Poster](/images/mla.jpg)
 
-Envisioning Possibilities and Challenges of AI for Personalized Cancer Care, The 2024 Conference on Computer-Supported Cooperative Work and Social Computing [Poster](/images/cscw.jpg)
+* Envisioning Possibilities and Challenges of AI for Personalized Cancer Care, The 2024 Conference on Computer-Supported Cooperative Work and Social Computing [Poster](/images/cscw.jpg)
 
-Understanding Patient Comfort and Willingness in EHR Social Needs Documentation – A Pilot Survey, Kentucky Conference on Health Communication 2024 [Poster](/images/kchc.jpg)
+* Understanding Patient Comfort and Willingness in EHR Social Needs Documentation – A Pilot Survey, Kentucky Conference on Health Communication 2024 [Poster](/images/kchc.jpg)
 
 
 
