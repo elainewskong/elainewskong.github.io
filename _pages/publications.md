@@ -55,6 +55,8 @@ University Learning A Qualitative Study through the Lens of Self-Determination T
 
 **Libraries, Information Services, and LIS Education:**
 
+* **Kong, E.** From Storage to Access Infrastructure: A Comparative Study of Five Shared and Off-Site Academic Library Collections. *The Journal of Academic Librarianship*. (under review)
+
 * **Kong, E.** (2026). Extending Needs Assessment Through Contextual Inquiry: User Research for Culturally Responsive Information Services. *Library, Information & Services, 1*(1), 7. [LINK](https://www.sciltp.com/journals/lis/articles/2607004735)
 
 * Chan, S.Y., Chan, W.Y., Chan, H.Y., and **Kong, E.** (2026). Mobile Reference Needs of Undergraduate Social Science Majors: A Comparative Study. *Library, Information & Services, 1*(1), 3. [LINK](https://www.sciltp.com/journals/lis/articles/2603003165)
