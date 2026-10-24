@@ -10,19 +10,19 @@ redirect_from:
 {% include base_path %}
 
 Selected projects from my ongoing research are highlighted below.
-
-## <span style="color:#444444;">Family-Mediated CAM Information Practices in Cancer Survivorship</span>
+---
+## Family-Mediated CAM Information Practices in Cancer Survivorship
 <hr style="margin-top:-0.5em; margin-bottom:0.8em; border:0; border-top:1px solid #999999;">
 
 **Dissertation Research — Ongoing**
-
+---
 This project examines how Chinese immigrant cancer survivors and family support persons seek, evaluate, use, and communicate CAM-related information. It focuses on how family, language, culture, clinical care, and digital environments shape these information experiences and the support survivors may need.
 
 **Related work:**
 
 * *The Craft of Knowing: CAM Information Practices in the Fractured Information Landscapes of Chinese Immigrant Cancer Survivors* — *ALISE 2026 Work-in-Progress Poster*
 
-## <span style="color:#444444;">Credibility in Chinese-Language Digital Health Environments</span>
+## Credibility in Chinese-Language Digital Health Environments
 <hr style="margin-top:-0.5em; margin-bottom:0.8em; border:0; border-top:1px solid #999999;">
 
 **Ongoing Research**
@@ -37,7 +37,7 @@ This research examines how Chinese-language digital environments shape the cues 
 
 * *From Visibility to Plausibility: Platformed Credibility of Complementary and Alternative Medicine Claims in Chinese-Language Digital Health Ecosystems* — *Online Information Review*
 
-## <span style="color:#444444;">Culturally Responsive Evaluation of Generative AI Health Information</span>
+## Culturally Responsive Evaluation of Generative AI Health Information
 <hr style="margin-top:-0.5em; margin-bottom:0.8em; border:0; border-top:1px solid #999999;">
 
 **Ongoing Research**
@@ -48,7 +48,7 @@ This project examines how generative AI systems respond to cancer-related CAM qu
 
 * *Culturally Responsive Auditing of Generative AI Health Information Systems: Chinese-English Cancer-Related Complementary and Alternative Medicine Queries* — *Library Hi Tech*
 
-## <span style="color:#444444;">Co-Designing Health Information and AI Support with Cancer Survivors</span>
+## Co-Designing Health Information and AI Support with Cancer Survivors
 <hr style="margin-top:-0.5em; margin-bottom:0.8em; border:0; border-top:1px solid #999999;">
 
 **Collaborative Research**
