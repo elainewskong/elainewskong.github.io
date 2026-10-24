@@ -11,7 +11,8 @@ redirect_from:
 
 Selected projects from my ongoing research are highlighted below.
 
-## Family-Mediated CAM Information Practices in Cancer Survivorship
+## <span style="color:#444444;">Family-Mediated CAM Information Practices in Cancer Survivorship</span>
+<hr style="margin-top:-0.5em; margin-bottom:0.8em; border:0; border-top:1px solid #999999;">
 
 **Dissertation Research — Ongoing**
 
@@ -19,9 +20,10 @@ This project examines how Chinese immigrant cancer survivors and family support 
 
 **Related work:**
 
-*The Craft of Knowing: CAM Information Practices in the Fractured Information Landscapes of Chinese Immigrant Cancer Survivors — ALISE 2026 Work-in-Progress Poster*
+* *The Craft of Knowing: CAM Information Practices in the Fractured Information Landscapes of Chinese Immigrant Cancer Survivors* — *ALISE 2026 Work-in-Progress Poster*
 
-## Credibility in Chinese-Language Digital Health Environments
+## <span style="color:#444444;">Credibility in Chinese-Language Digital Health Environments</span>
+<hr style="margin-top:-0.5em; margin-bottom:0.8em; border:0; border-top:1px solid #999999;">
 
 **Ongoing Research**
 
@@ -29,13 +31,14 @@ This research examines how Chinese-language digital environments shape the cues 
 
 **Related publication:**
 
-*Negotiating Trust Across Fractured Information Landscapes: Cognitive Authority in CAM Information Practices of Chinese Immigrant Cancer Survivors — Journal of Documentation (2026)*
+* *Negotiating Trust Across Fractured Information Landscapes: Cognitive Authority in CAM Information Practices of Chinese Immigrant Cancer Survivors* — *Journal of Documentation (2026)*
 
 **Related manuscript:**
 
-*From Visibility to Plausibility: Platformed Credibility of Complementary and Alternative Medicine Claims in Chinese-Language Digital Health Ecosystems — Online Information Review*
+* *From Visibility to Plausibility: Platformed Credibility of Complementary and Alternative Medicine Claims in Chinese-Language Digital Health Ecosystems* — *Online Information Review*
 
-## Culturally Responsive Evaluation of Generative AI Health Information
+## <span style="color:#444444;">Culturally Responsive Evaluation of Generative AI Health Information</span>
+<hr style="margin-top:-0.5em; margin-bottom:0.8em; border:0; border-top:1px solid #999999;">
 
 **Ongoing Research**
 
@@ -43,9 +46,10 @@ This project examines how generative AI systems respond to cancer-related CAM qu
 
 **Related manuscript:**
 
-*Culturally Responsive Auditing of Generative AI Health Information Systems: Chinese-English Cancer-Related Complementary and Alternative Medicine Queries — Library Hi Tech*
+* *Culturally Responsive Auditing of Generative AI Health Information Systems: Chinese-English Cancer-Related Complementary and Alternative Medicine Queries* — *Library Hi Tech*
 
-## Co-Designing Health Information and AI Support with Cancer Survivors
+## <span style="color:#444444;">Co-Designing Health Information and AI Support with Cancer Survivors</span>
+<hr style="margin-top:-0.5em; margin-bottom:0.8em; border:0; border-top:1px solid #999999;">
 
 **Collaborative Research**
 
@@ -53,7 +57,7 @@ This project develops a bilingual card-based co-design method to help cancer sur
 
 **Related manuscript:**
 
-*Cards as Boundary Objects for Surfacing Cancer Survivors’ Tacit Needs Around Complementary and Alternative Medicine and AI Personalization: Qualitative Co-Design Study — JMIR Formative Research*
+* *Cards as Boundary Objects for Surfacing Cancer Survivors’ Tacit Needs Around Complementary and Alternative Medicine and AI Personalization: Qualitative Co-Design Study* — *JMIR Formative Research*
 
 
 <!--
