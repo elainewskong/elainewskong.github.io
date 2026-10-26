@@ -14,7 +14,7 @@ Recent Updates:
 * Sep 2026: Joined the 2026 Public Health Information Science Initiative ([PHISI](https://phisi.ubc.ca/)) cohort
 * Aug 2026: Received the [CNI Paul Evan Peters Scholarship](https://www.cni.org/about-cni/awards/pep-scholarship/2026-28-violeta-duncan-and-elaine-kong)
 * Jun 2026: Published in *Journal of Documentation* ([link](https://doi.org/10.1108/JD-03-2026-0154))
-* Aug 2025: Completed the internship at Harvard Library
+* Aug 2025: Completed the internship at Harvard Library Technology and Access Services Department
 * Jun 2025: Completed the fellowship at [Yale Law Library](https://library.law.yale.edu/news/meet-elaine-kong-visiting-aall-george-strait-fellow)
 
 
