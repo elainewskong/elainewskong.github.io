@@ -17,20 +17,20 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 * **Kong, E.** (2026). Negotiating Trust Across Fractured Information Landscapes: Cognitive Authority in CAM Information Practices of Chinese Immigrant Cancer Survivors. *Journal of Documentation, 82*(7), 396-412. [LINK](https://doi.org/10.1108/JD-03-2026-0154)
 
-* **Kong, E.** Culturally Situated Health Information Frames in Chinese-Language YouTube Discussions of Cancer-Related Complementary and Alternative Medicine. *Health Information & Libraries Journal*. (under review) 
-
 * **Kong, E.** From Visibility to Plausibility: Platformed Credibility of Complementary and Alternative Medicine Claims in Chinese-Language Digital Health Ecosystems. *Online Information Review*. (revise and resubmit)
+
+* **Kong, E.** Culturally Situated Health Information Frames in Chinese-Language YouTube Discussions of Cancer-Related Complementary and Alternative Medicine. *Health Information & Libraries Journal*. (under review) 
 
 <!--
 * **Kong, E.** Culturally Competent Patient Education on CAM: Strategies for Working with Chinese Immigrant Cancer Survivors. *Patient Education and Counseling*. (under review)
 -->
 * **Kong, E.** and Chi, Y. Complementary and Alternative Medicine Information Practices in Cancer Care and Survivorship: A Scoping Review of Information Needs, Communication, and Safety. *Health Information & Libraries Journal*. (under review) 
 
-* Huang, K.T., Patel, R., Connor, S., **Kong, E.**, Nie, X., and Schmersal, J. (2025). Barriers and Facilitators to Documenting Social Needs in Electronic Health Records: A Pilot Survey. *Information Research an International Electronic Journal 30* (iConf), 970-81. [LINK](https://doi.org/10.47989/ir30iConf47152)
+* **Kong, E.** and Gautam, A. Cards as Boundary Objects for Surfacing Cancer Survivors’ Tacit Needs Around Complementary and Alternative Medicine and AI Personalization: Qualitative Co-Design Study. *JMIR Formative Research*. (under review)
 
 * Daraz, L., **Kong, E.**, and Chang, B. Countering online health misinformation with an evidence-based tool: perspectives of health information providers. *Frontiers in Public Health*. (under review)
 
-* **Kong, E.** and Gautam, A. Cards as Boundary Objects for Surfacing Cancer Survivors’ Tacit Needs Around Complementary and Alternative Medicine and AI Personalization: Qualitative Co-Design Study. *JMIR Formative Research*. (under review)
+* Huang, K.T., Patel, R., Connor, S., **Kong, E.**, Nie, X., and Schmersal, J. (2025). Barriers and Facilitators to Documenting Social Needs in Electronic Health Records: A Pilot Survey. *Information Research an International Electronic Journal 30* (iConf), 970-81. [LINK](https://doi.org/10.47989/ir30iConf47152)
 
 **AI, Information Systems, and Human-Centered Technologies:**
 
@@ -46,12 +46,12 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 * Li, K.H., Chiu, D.K.W., **Kong, E.**, and Ho, K.K.W. (2025). Mobile security awareness of university students in Hong Kong: demographics and education. *Education+ Training, 67*(1), 1-19. [LINK](https://doi.org/10.1108/ET-04-2023-0128)
 
+* Pan, H., **Kong, E.**, Lam, A.H.C., and Chiu, D.K.W. (2026). University Students' Use of GenAI in Coursework Writing: A Qualitative Study in Hong Kong. *The Journal of Academic Librarianship, 52*(6), 103362. [LINK](https://doi.org/10.1016/j.acalib.2026.103362)  
+
 * Luo, M.T., **Kong, E.**, and Chiu, D.K.W. The Impact of Xiaohongshu on Consumers' Purchase Intention for Healthcare Supplement Products: A Qualitative AISAS Study of Social Commerce. *Journal of Organizational Computing and Electronic Commerce*. (under review)
 
 * Tuvera, M.I.B., **Kong, E.**, and Chiu, D.K.W. Exploring the Impact of AI Chatbot Information Retrieval on Self-Motivation in
 University Learning A Qualitative Study through the Lens of Self-Determination Theory. *Journal	of the Knowledge Economy*. (under review) 
-
-* Pan, H., **Kong, E.**, Lam, A.H.C., and Chiu, D.K.W. University Students' Use of GenAI in Coursework Writing: A Qualitative Study in Hong Kong. *The Journal of Academic Librarianship*. (revise and resubmit)  
 
 **Libraries, Information Services, and LIS Education:**
 
@@ -77,13 +77,13 @@ University Learning A Qualitative Study through the Lens of Self-Determination T
 
 **Archives, Cultural Heritage, and Information Policy:**
 
-* Lo, P., **Kong, E.**, and Chiu, D.K.W. (2016). Long Way for Hong Kong to Achieve Democracy: Urgent Call for the Archives Law to Protect Valuable Government Records: Informational Interview with Cyd Ho, JP. *Journal of East Asian Libraries, 163*, 8. [LINK](https://scholarsarchive.byu.edu/jeal/vol2016/iss163/8)
+* **Kong, E.** and Danley, H.M. Structural Silences in Controlled Vocabularies: A Comparative Analysis of Trauma Representation in LCSH and MeSH. *Cataloging & Classification Quarterly*. (under review)
+
+* Lau, T.F., **Kong, E.**, and Chiu, D.K.W. (2026). Organizational Social Capital, Professional Identity, and Cultural Exhibition Work in Academic Libraries. *The Journal of Academic Librarianship, 52*(6), 103353. [LINK](https://doi.org/10.1016/j.acalib.2026.103353)
 
 * **Kong, E.**, Chiu, D.K.W., and Lo, P. (2014). The Potential of Developing a Museum Collection Management System in the Hong Kong Museum of History. In *The Asian Conference on Literature & Librarianship 2014: Official Conference Proceedings*, The International Academic Forum, pp. 182-196. [LINK](https://papers.iafor.org/wp-content/uploads/papers/librasia2014/LibrAsia2014_0455.pdf)
 
-* Lau, T.F., **Kong, E.**, and Chiu, D.K.W. Organizational Social Capital, Professional Identity, and Cultural Exhibition Work in Academic Libraries. *The Journal of Academic Librarianship*, 52(6), 103353. [LINK](https://doi.org/10.1016/j.acalib.2026.103353)
-
-* **Kong, E.** and Danley, H.M. Structural Silences in Controlled Vocabularies: A Comparative Analysis of Trauma Representation in LCSH and MeSH. *Cataloging & Classification Quarterly*. (under review)
+* Lo, P., **Kong, E.**, and Chiu, D.K.W. (2016). Long Way for Hong Kong to Achieve Democracy: Urgent Call for the Archives Law to Protect Valuable Government Records: Informational Interview with Cyd Ho, JP. *Journal of East Asian Libraries, 163*, 8. [LINK](https://scholarsarchive.byu.edu/jeal/vol2016/iss163/8)
 
 ## Book Review
 * **Kong, E.** 2024. Cracking the Bro Code: by Coleen Carrigan, Cambridge, Massachusetts, The MIT Press, 2024, 193 pp., $40 (paperback), ISBN: 9780262547055. *Information, Communication & Society*, 28(2), 356–357. [LINK](https://doi.org/10.1080/1369118X.2024.2363905).
