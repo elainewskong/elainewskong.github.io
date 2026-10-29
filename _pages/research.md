@@ -11,12 +11,12 @@ redirect_from:
 
 Selected projects from my ongoing research are highlighted below.
 
-## Family-Mediated CAM Information Practices in Cancer Survivorship
+## CAM-Related Information Practices in Cancer Survivorship
 <hr style="margin-top:-0.5em; margin-bottom:0.8em; border:0; border-top:1px solid #999999;">
 
 **Dissertation Research — Ongoing**
 
-This project examines how Chinese immigrant cancer survivors and family support persons seek, evaluate, use, and communicate CAM-related information. It focuses on how family, language, culture, clinical care, and digital environments shape these information experiences and the support survivors may need.
+This research examines how Chinese immigrant cancer survivors encounter, evaluate, and respond to complementary and alternative medicine (CAM)-related information. It explores how clinical, social, cultural, linguistic, and digital contexts shape their information experiences, with particular attention to information uncertainty, decision-making, and potential support needs.
 
 **Related work:**
 
