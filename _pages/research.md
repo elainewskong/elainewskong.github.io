@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Selected projects from my ongoing research are highlighted below.
+My research includes the following projects.
 
-## CAM-Related Information Practices in Cancer Survivorship
+## CAM Information Practices in Chinese Immigrant Cancer Survivorship
 <hr style="margin-top:-0.5em; margin-bottom:0.8em; border:0; border-top:1px solid #999999;">
 
 **Dissertation Research — Ongoing**
 
-This research examines how Chinese immigrant cancer survivors encounter, evaluate, and respond to complementary and alternative medicine (CAM)-related information. It explores how clinical, social, cultural, linguistic, and digital contexts shape their information experiences, with particular attention to information uncertainty, decision-making, and potential support needs.
+My dissertation explores how Chinese immigrant cancer survivors seek, come across, and share information about complementary and alternative medicine (CAM) in everyday life. Through interviews about specific experiences, I examine how these activities connect and how social, cultural, and linguistic circumstances shape whom survivors approach and what information they discuss or choose not to share.
 
 **Related work:**
 
