@@ -79,7 +79,7 @@ University Learning A Qualitative Study through the Lens of Self-Determination T
 
 **Archives, Cultural Heritage, and Information Policy:**
 
-* **Kong, E.** and Danley, H.M. Structural Silences in Controlled Vocabularies: A Comparative Analysis of Trauma Representation in LCSH and MeSH. *Cataloging & Classification Quarterly*. (under review)
+* **Kong, E.** and Danley, H.M. Structural Silences in Controlled Vocabularies: A Comparative Analysis of Trauma Representation in LCSH and MeSH. *Cataloging & Classification Quarterly*. (revise and resubmit)
 
 * Lau, T.F., **Kong, E.**, and Chiu, D.K.W. (2026). Organizational Social Capital, Professional Identity, and Cultural Exhibition Work in Academic Libraries. *The Journal of Academic Librarianship, 52*(6), 103353. [LINK](https://doi.org/10.1016/j.acalib.2026.103353)
 
