@@ -28,7 +28,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 * **Kong, E.** and Gautam, A. Cards as Boundary Objects for Surfacing Cancer Survivors’ Tacit Needs Around Complementary and Alternative Medicine and AI Personalization: Qualitative Co-Design Study. *JMIR Formative Research*. (under review)
 
-* Daraz, L., **Kong, E.**, and Chang, B. Countering online health misinformation with an evidence-based tool: perspectives of health information providers. *Frontiers in Public Health*. (under review)
+<!-- 
+* Daraz, L., **Kong, E.**, and Chang, B. Countering online health misinformation with an evidence-based tool: perspectives of health information providers. *Frontiers in Public Health*. (under review) 
+-->
 
 * Huang, K.T., Patel, R., Connor, S., **Kong, E.**, Nie, X., and Schmersal, J. (2025). Barriers and Facilitators to Documenting Social Needs in Electronic Health Records: A Pilot Survey. *Information Research an International Electronic Journal 30* (iConf), 970-81. [LINK](https://doi.org/10.47989/ir30iConf47152)
 
